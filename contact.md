@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://adware-advisory-drink-ids.trycloudflare.com
+- **URL:** https://circle-shuttle-lighting-wendy.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-18T06:57:02.393Z
+- **Updated (UTC):** 2026-11-18T07:16:53.770Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
