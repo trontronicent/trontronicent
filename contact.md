@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://circle-shuttle-lighting-wendy.trycloudflare.com
+- **URL:** https://mothers-get-scale-alias.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-18T07:16:53.770Z
+- **Updated (UTC):** 2026-11-18T08:02:48.404Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
