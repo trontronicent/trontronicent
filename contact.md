@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://mothers-get-scale-alias.trycloudflare.com
+- **URL:** https://mutual-hits-psychological-capabilities.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-18T08:02:48.404Z
+- **Updated (UTC):** 2026-11-18T09:31:32.776Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
