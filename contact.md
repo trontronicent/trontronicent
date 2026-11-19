@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://embedded-tin-joins-item.trycloudflare.com
+- **URL:** https://secret-portions-ivory-explained.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-19T15:31:49.897Z
+- **Updated (UTC):** 2026-11-19T16:37:36.705Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
