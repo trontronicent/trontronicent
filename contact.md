@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://secret-portions-ivory-explained.trycloudflare.com
+- **URL:** https://persistent-provides-else-samba.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-19T16:37:36.705Z
+- **Updated (UTC):** 2026-11-19T20:32:55.527Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
