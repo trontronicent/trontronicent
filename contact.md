@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://merchandise-hawk-civilian-delays.trycloudflare.com
+- **URL:** https://quoted-last-effective-brother.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-19T05:40:14.265Z
+- **Updated (UTC):** 2026-11-19T12:49:32.976Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
