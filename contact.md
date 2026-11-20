@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://davidson-pork-human-reliability.trycloudflare.com
+- **URL:** https://imperial-ties-forest-bones.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-20T13:12:46.252Z
+- **Updated (UTC):** 2026-11-20T13:44:41.864Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
