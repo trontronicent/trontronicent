@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://lyric-mentor-river-ghz.trycloudflare.com
+- **URL:** https://functioning-kim-trained-bailey.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-20T11:14:18.915Z
+- **Updated (UTC):** 2026-11-20T11:36:10.581Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
