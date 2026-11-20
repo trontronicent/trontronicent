@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://functioning-kim-trained-bailey.trycloudflare.com
+- **URL:** https://organic-duplicate-collectors-pointer.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-20T11:36:10.581Z
+- **Updated (UTC):** 2026-11-20T11:52:55.953Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
