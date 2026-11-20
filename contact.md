@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://organic-duplicate-collectors-pointer.trycloudflare.com
+- **URL:** https://handbook-ruby-pam-refinance.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-20T11:52:55.953Z
+- **Updated (UTC):** 2026-11-20T12:43:53.652Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
