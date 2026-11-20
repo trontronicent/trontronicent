@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://cio-tigers-golf-uncle.trycloudflare.com
+- **URL:** https://sticks-parish-meant-brother.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-20T18:34:55.327Z
+- **Updated (UTC):** 2026-11-20T18:36:55.861Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
