@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://fundamentals-coating-lyrics-property.trycloudflare.com
+- **URL:** https://semiconductor-trim-keywords-wage.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-21T10:36:53.991Z
+- **Updated (UTC):** 2026-11-21T10:41:21.867Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
