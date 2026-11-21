@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://tail-ericsson-manhattan-arising.trycloudflare.com
+- **URL:** https://reason-recipient-story-listing.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-21T12:41:16.367Z
+- **Updated (UTC):** 2026-11-21T13:10:38.580Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
