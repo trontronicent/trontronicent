@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://generate-mailing-clark-sys.trycloudflare.com
+- **URL:** https://condo-broke-scenarios-celebrate.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-21T16:56:43.309Z
+- **Updated (UTC):** 2026-11-21T17:20:58.634Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
