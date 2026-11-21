@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://softball-know-tournaments-loved.trycloudflare.com
+- **URL:** https://tail-ericsson-manhattan-arising.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-21T12:08:18.949Z
+- **Updated (UTC):** 2026-11-21T12:41:16.367Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
