@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://transparency-traditions-conclusion-fairly.trycloudflare.com
+- **URL:** https://spaces-reminder-nikon-see.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-21T13:55:44.337Z
+- **Updated (UTC):** 2026-11-21T14:10:26.659Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
