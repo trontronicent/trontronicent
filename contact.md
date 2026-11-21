@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://monte-devel-agricultural-laughing.trycloudflare.com
+- **URL:** https://vermont-caring-mrna-alternatives.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-21T15:36:19.357Z
+- **Updated (UTC):** 2026-11-21T15:42:43.310Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
