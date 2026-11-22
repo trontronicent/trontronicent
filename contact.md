@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://schools-north-hygiene-regulatory.trycloudflare.com
+- **URL:** https://blogs-ocean-units-friendly.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-22T21:38:58.183Z
+- **Updated (UTC):** 2026-11-22T21:41:03.247Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
