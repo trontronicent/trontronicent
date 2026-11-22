@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://materials-cancellation-grown-earnings.trycloudflare.com
+- **URL:** https://piano-adopted-independence-canal.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-22T21:43:13.545Z
+- **Updated (UTC):** 2026-11-22T23:04:23.962Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
