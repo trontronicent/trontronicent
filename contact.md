@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://fixtures-solar-documentary-fired.trycloudflare.com
+- **URL:** https://structures-shareware-healthy-wheat.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-22T19:11:54.617Z
+- **Updated (UTC):** 2026-11-22T19:52:29.116Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
