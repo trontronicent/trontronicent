@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://dates-idle-covers-denied.trycloudflare.com
+- **URL:** https://fixtures-solar-documentary-fired.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-22T19:06:46.292Z
+- **Updated (UTC):** 2026-11-22T19:11:54.617Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
