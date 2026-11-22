@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://structures-shareware-healthy-wheat.trycloudflare.com
+- **URL:** https://salon-yrs-guitar-temp.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-22T19:52:29.116Z
+- **Updated (UTC):** 2026-11-22T20:18:53.078Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
