@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://embassy-obtain-generic-october.trycloudflare.com
+- **URL:** https://houston-sail-elect-isle.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-23T00:36:16.880Z
+- **Updated (UTC):** 2026-11-23T00:40:00.364Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
