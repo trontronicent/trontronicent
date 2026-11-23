@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://piano-adopted-independence-canal.trycloudflare.com
+- **URL:** https://embassy-obtain-generic-october.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-22T23:04:23.962Z
+- **Updated (UTC):** 2026-11-23T00:36:16.880Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
