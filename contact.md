@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://innovation-law-undo-tulsa.trycloudflare.com
+- **URL:** https://commonly-defeat-mineral-intellectual.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-23T21:36:07.294Z
+- **Updated (UTC):** 2026-11-23T22:55:47.693Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
