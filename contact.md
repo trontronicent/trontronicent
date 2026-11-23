@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://law-avatar-randy-importance.trycloudflare.com
+- **URL:** https://obtaining-powers-considerations-tough.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-23T01:07:32.588Z
+- **Updated (UTC):** 2026-11-23T02:01:50.201Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
