@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://commonly-defeat-mineral-intellectual.trycloudflare.com
+- **URL:** https://currently-totally-elliott-strengthen.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-23T22:55:47.693Z
+- **Updated (UTC):** 2026-11-23T23:14:52.353Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
