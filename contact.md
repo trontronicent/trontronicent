@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://fitness-produces-britannica-violations.trycloudflare.com
+- **URL:** https://jones-america-phrase-receptor.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-23T01:02:06.885Z
+- **Updated (UTC):** 2026-11-23T01:07:07.374Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
