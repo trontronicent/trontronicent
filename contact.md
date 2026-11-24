@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://tue-vat-shoulder-renew.trycloudflare.com
+- **URL:** https://undefined-gathered-reverse-ranch.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T13:19:37.991Z
+- **Updated (UTC):** 2026-11-24T14:00:41.143Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
