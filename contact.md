@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://fitness-acre-absolute-submitted.trycloudflare.com
+- **URL:** https://tue-vat-shoulder-renew.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T13:15:37.635Z
+- **Updated (UTC):** 2026-11-24T13:19:37.991Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
