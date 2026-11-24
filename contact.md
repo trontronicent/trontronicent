@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://handled-rear-competitions-cornell.trycloudflare.com
+- **URL:** https://compute-grades-platform-entitled.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T11:42:28.911Z
+- **Updated (UTC):** 2026-11-24T12:03:25.572Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
