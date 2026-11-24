@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://relocation-cheers-northeast-colin.trycloudflare.com
+- **URL:** https://fitness-acre-absolute-submitted.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T13:00:49.908Z
+- **Updated (UTC):** 2026-11-24T13:15:37.635Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
