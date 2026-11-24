@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://transaction-agricultural-clock-grateful.trycloudflare.com
+- **URL:** https://cos-formats-postcards-alarm.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T10:30:07.317Z
+- **Updated (UTC):** 2026-11-24T11:16:08.558Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
