@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://bridge-equality-should-hugo.trycloudflare.com
+- **URL:** https://labs-corner-artificial-merchants.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T04:03:22.678Z
+- **Updated (UTC):** 2026-11-24T05:03:42.695Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
