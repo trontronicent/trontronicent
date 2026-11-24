@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://labs-corner-artificial-merchants.trycloudflare.com
+- **URL:** https://rss-share-language-you.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T05:03:42.695Z
+- **Updated (UTC):** 2026-11-24T05:42:31.348Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
