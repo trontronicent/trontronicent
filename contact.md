@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://rss-share-language-you.trycloudflare.com
+- **URL:** https://brakes-connection-batman-advertiser.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T05:42:31.348Z
+- **Updated (UTC):** 2026-11-24T06:15:18.543Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
