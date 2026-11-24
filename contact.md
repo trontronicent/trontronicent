@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://passage-coal-willow-sole.trycloudflare.com
+- **URL:** https://parliamentary-liability-return-biography.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T10:03:14.940Z
+- **Updated (UTC):** 2026-11-24T10:11:11.667Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
