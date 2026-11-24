@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://fourth-recognition-translation-promoted.trycloudflare.com
+- **URL:** https://manufactured-executive-discussing-skirt.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T00:59:05.691Z
+- **Updated (UTC):** 2026-11-24T01:10:02.524Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
