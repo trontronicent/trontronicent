@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://shared-renaissance-duties-feelings.trycloudflare.com
+- **URL:** https://pushed-charity-toxic-orchestra.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T06:32:10.684Z
+- **Updated (UTC):** 2026-11-24T07:14:42.728Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
