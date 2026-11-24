@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://graphics-birth-bridge-reconstruction.trycloudflare.com
+- **URL:** https://cruises-consumption-kills-shadows.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T09:47:36.263Z
+- **Updated (UTC):** 2026-11-24T09:49:04.552Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
