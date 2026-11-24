@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://alot-lee-dictionary-involved.trycloudflare.com
+- **URL:** https://bridge-equality-should-hugo.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-24T03:48:34.493Z
+- **Updated (UTC):** 2026-11-24T04:03:22.678Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
