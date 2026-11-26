@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://rip-compile-dover-jean.trycloudflare.com
+- **URL:** https://bike-investigated-tackle-pot.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-26T19:40:06.859Z
+- **Updated (UTC):** 2026-11-26T20:05:41.249Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
