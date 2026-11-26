@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://genres-sydney-saved-brain.trycloudflare.com
+- **URL:** https://rip-compile-dover-jean.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-26T18:19:01.694Z
+- **Updated (UTC):** 2026-11-26T19:40:06.859Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
