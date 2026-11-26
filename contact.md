@@ -1,7 +1,7 @@
 # The Gateway — Live Endpoint
 
-- **URL:** https://liberty-turns-cardiovascular-testimonials.trycloudflare.com
+- **URL:** https://simpsons-pushed-combo-images.trycloudflare.com
 - **Status:** ONLINE
-- **Updated (UTC):** 2026-11-26T13:27:39.370Z
+- **Updated (UTC):** 2026-11-26T13:35:52.573Z
 
 > Automatically maintained by **The Gateway** tunnel supervisor.
